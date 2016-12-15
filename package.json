@@ -1,0 +1,14 @@
+{
+  "name": "fis3-optimizer-dfy-html-minifie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wiwi",
+  "license": "ISC",
+  "dependencies": {
+    "html-minifier": "^3.2.3"
+  }
+}
