@@ -1,14 +1,23 @@
 {
-  "name": "fis3-optimizer-dfy-html-minifie",
+  "name": "fis3-optimizer-dfy-html-minifier",
   "version": "1.0.0",
-  "description": "",
+  "description": "主要针对官方插件fis-optimizer-html-minifie进行修复和升级",
   "main": "index.js",
+  "dependencies": {
+    "html-minifier": "^3.2.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baiang/fis3-optimizer-dfy-html-minifier.git"
+  },
   "author": "wiwi",
   "license": "ISC",
-  "dependencies": {
-    "html-minifier": "^3.2.3"
-  }
+  "bugs": {
+    "url": "https://github.com/Baiang/fis3-optimizer-dfy-html-minifier/issues"
+  },
+  "homepage": "https://github.com/Baiang/fis3-optimizer-dfy-html-minifier#readme"
 }
