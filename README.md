@@ -27,7 +27,6 @@ fis..match('**.html', {
             removeComments: true, //去掉注释
             collapseWhitespace: true,
             conservativeCollapse: true,
-            removeAttributeQuotes: true,
             minifyJS: true, //压缩html内的js代码
             minifyCSS: true
         })
